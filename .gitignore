@@ -72,3 +72,7 @@ local.properties
 .cache-main
 .scala_dependencies
 .worksheet
+
+## Additional Eclipse related files need to be ignored
+.classpath
+.project
